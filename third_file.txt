@@ -1,1 +1,1 @@
-This is a the third file I added to my project.
+This is the third file I added to my project.
